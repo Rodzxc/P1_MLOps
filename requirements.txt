@@ -17,7 +17,7 @@ scikit-learn
 scipy
 six
 sniffio
-starlette
+starlette==0.28.0
 threadpoolctl
 typing_extensions
 tzdata
