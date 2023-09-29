@@ -7,9 +7,9 @@ app = FastAPI()
 
 
 #Archivos
-m = pd.read_csv('C:\\Users\\rodxf\\Desktop\\Soy Henry\\TAREAS\\P1\\merged_df.csv')
-u = pd.read_csv('C:\\Users\\rodxf\\Desktop\\Soy Henry\\TAREAS\\P1\\merged_df_2.csv')
-ml = pd.read_csv('C:\\Users\\rodxf\\Desktop\\Soy Henry\\TAREAS\\P1\\ml_df.csv')
+m = pd.read_csv('merged_df.csv')
+u = pd.read_csv('merged_df_2.csv')
+ml = pd.read_csv('ml_df.csv')
 
 
 #Funciones
