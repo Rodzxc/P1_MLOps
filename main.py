@@ -181,9 +181,7 @@ def SentimentAnalysis(year: int):
 # 5
 @app.get("/recommend_games/{title}")
 def recommend_games(title : str):
-    
-    title = title.capitalize()
-    
+       
     # Busca el índice del juego de entrada
     try:
         game_idx = ml[ml['title'] == title].index[0]
