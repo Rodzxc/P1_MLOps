@@ -58,6 +58,8 @@ Puedes realizar las consultas en el siguiente enlace:
 
 https://proyecto-1-xykt.onrender.com/docs
 
+
+
 ### Repositorio y archivos relevantes
 
 En el repositorio de GitHub - Rodzxc/Proyecto1, puedes encontrar los siguientes archivos relevantes:
