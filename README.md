@@ -7,7 +7,7 @@
 
 En este proyecto, se asume el rol de un MLOps Engineer de una plataforma multinacional de videojuegos.
 
-### ObjetivosObjetivos
+### Objetivos
 
 - Procesar los datos disponibles mediante ETL.
 
