@@ -13,7 +13,7 @@ En este proyecto, se asume el rol de un MLOps Engineer de una plataforma multina
 
 - Realizar un análisis de sentimiento según las reseñas:
 
- &nbsp; 1. Reseña Positiva = **2**
+ &nbsp;      1. Reseña Positiva = **2**
 
  2. Reseña Neutra = **1**
 
