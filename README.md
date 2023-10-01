@@ -58,7 +58,7 @@ Puedes realizar las consultas en el siguiente enlace:
 
 https://proyecto-1-xykt.onrender.com/docs
 
-
+![Flujo-Readme](https://github.com/Rodzxc/Proyecto1/assets/133074545/120f7b93-eb69-4cb4-a7f6-9930121b5e30)
 
 ### Repositorio y archivos relevantes
 
