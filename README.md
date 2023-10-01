@@ -60,7 +60,7 @@ https://proyecto-1-xykt.onrender.com/docs
 
 ### Flujo de trabajo
 
-![Flujo-Readme](https://github.com/Rodzxc/Proyecto1/assets/133074545/120f7b93-eb69-4cb4-a7f6-9930121b5e30)
+![Flujo-Readme](https://github.com/Rodzxc/Proyecto1/assets/133074545/e9ab7081-d960-4de0-a8e8-61750410cde2)
 
 ### Repositorio y archivos relevantes
 
