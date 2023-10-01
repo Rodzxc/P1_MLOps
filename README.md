@@ -13,11 +13,11 @@ En este proyecto, se asume el rol de un MLOps Engineer de una plataforma multina
 
 - Realizar un análisis de sentimiento según las reseñas:
 
- 1. Reseña Positiva = **2**
+ >>1. Reseña Positiva = **2**
 
- 2. Reseña Neutra = **1**
+ >>2. Reseña Neutra = **1**
 
- 3. Reseña Negativa = **0**
+ >>3. Reseña Negativa = **0**
 
 - Realizar el análisis exploratorio (EDA).
 
@@ -25,17 +25,17 @@ En este proyecto, se asume el rol de un MLOps Engineer de una plataforma multina
 
 - Desarrollar 6 funciones:
 
- 1. **PlayTimeGenre** : Debe devolver año con más horas jugadas para dicho género.
+ >>1. **PlayTimeGenre** : Debe devolver año con más horas jugadas para dicho género.
 
- 2. **UserForGenre**: Debe devolver el usuario que acumula más horas jugadas para el género dado y una lista de la acumulación de horas jugadas por año.
+ >>2. **UserForGenre**: Debe devolver el usuario que acumula más horas jugadas para el género dado y una lista de la acumulación de horas jugadas por año.
 
- 3. **UsersRecommend**: Devuelve el top 3 de juegos MÁS recomendados por usuarios para el año dado.
+ >>3. **UsersRecommend**: Devuelve el top 3 de juegos MÁS recomendados por usuarios para el año dado.
 
- 4. **UsersNotRecommend**: Devuelve el top 3 de juegos MENOS recomendados por usuarios para el año dado.
+ >>4. **UsersNotRecommend**: Devuelve el top 3 de juegos MENOS recomendados por usuarios para el año dado.
 
- 5. **SentimentAnalysis**: Según el año de lanzamiento, se devuelve una lista con la cantidad de registros de reseñas de usuarios que se encuentren categorizados con un análisis de sentimiento.
+ >>5. **SentimentAnalysis**: Según el año de lanzamiento, se devuelve una lista con la cantidad de registros de reseñas de usuarios que se encuentren categorizados con un análisis de sentimiento.
 
- 6. **recommend_games**: Ingresando el título del video juego, deberíamos recibir una lista con 5 juegos recomendados similares al ingresado.
+ >>6. **recommend_games**: Ingresando el título del video juego, deberíamos recibir una lista con 5 juegos recomendados similares al ingresado.
 
 - Desarrollar una API  en el cual las funciones son utilizadas como consultas.
 
