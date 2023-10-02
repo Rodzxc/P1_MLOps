@@ -60,7 +60,7 @@ Puedes realizar las consultas en el siguiente enlace:
 
 ### Flujo de trabajo
 
-![Flujo-Readme](https://github.com/Rodzxc/Proyecto1/assets/133074545/e9ab7081-d960-4de0-a8e8-61750410cde2)
+![Flujo-Readme](https://github.com/Rodzxc/Proyecto1/assets/133074545/d493178f-5172-4001-8430-54c64ba1671f)
 
 ### Repositorio y archivos relevantes
 
