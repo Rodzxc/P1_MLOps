@@ -1,7 +1,7 @@
 ## Proyecto Individual Nº1
 ## Machine Learning Operations (MLOps)
 
-¡Bienvenidos a mi proyecto individual de Machine Learning Operations (MLOps)!:smiley:
+¡Bienvenidos a mi proyecto individual de Machine Learning Operations (MLOps)!
 
 ### Descripción del proyecto
 
