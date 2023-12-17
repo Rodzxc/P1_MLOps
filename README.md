@@ -11,7 +11,7 @@ En este proyecto, se asume el rol de un MLOps Engineer de una plataforma multina
 
 - Procesar los datos disponibles mediante ETL.
 
-- Realizar un análisis de sentimiento según las reseñas:
+- Realizar un análisis de sentimiento (NLP) según las reseñas:
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Reseña Positiva = **2**
 
