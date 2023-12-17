@@ -64,7 +64,7 @@ Puedes realizar las consultas en el siguiente enlace:
 
 ### Repositorio y archivos relevantes
 
-En el repositorio de GitHub - Rodzxc/Proyecto1, puedes encontrar los siguientes archivos relevantes:
+En el repositorio de GitHub - Rodzxc/P1_MLOps, puedes encontrar los siguientes archivos relevantes:
 
 - EDA+CSV_ML: Contiene los códigos y las visualizaciones generadas durante el análisis exploratorio de datos. Aquí también se procesa el dataset necesario para alimentar al sistema de recomendación.
 
